@@ -8,6 +8,6 @@ word_info = {
     "Donkey": "Donkey is an Animal",
     "Parrot": "Parrot is an Bard",
 }
-# Diptenu Sarkar
+# If you have any questions please feel free to ask @Diptenusarkar ( Facebook , Twitter (Any Time) , instagram)
 print(word_info.get(ask_word.capitalize(), "Sorry master. We couldn't find it."))
-# capitalize "Using it means that any way you input your word, it will be collected in the form of your database"
+# capitalize "Using it means that any way you input your word, it will be collected in DOG, DoG =  Dog"CAT
